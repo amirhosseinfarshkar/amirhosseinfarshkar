@@ -13,23 +13,38 @@ You Can See What I am Currently Up to on my official Website : [amirhosseinfarsh
 
 ## 🌳 About
 
+About Me
+I’m Amirhossein Farshkar Esmaeili, a 19-year-old Business Administration student starting my Bachelor’s at the University of Trieste, Italy, in September 2025. My goal is to become a professional business leader, pursuing a fully-funded Master’s in finance or business and excelling in the CFA Level 1 exam by 2026. I’m passionate about data-driven decision-making and personal growth.
+Hard Skills
 
+Data Analysis: Proficient in Python (pandas, numpy) for financial data analysis and Power BI for building interactive dashboards. Actively mastering Excel (Data Validation, Pivot Tables).
+Business & Finance: Preparing for CFA Level 1, with daily study of financial markets and business analytics.
+Languages: Advanced English (IELTS 7.0), fluent Turkish (C2), and Italian (A2, Espresso curriculum).
 
-With more than 3 years of successful experience in the computer business and academia, I can claim to be renowned as a computer engineer, innovator, performance-oriented, and perfectly motivated.
+Soft Skills
 
+Time Management: Implement the 6% Method for 6 hours of daily focused learning, ensuring disciplined progress.
+Communication & Content Creation: Run a YouTube channel and Instagram page on IELTS, productivity, and student lifestyle, aiming for 1,000 followers in a month.
+Networking: Actively connect with professors (e.g., Rotman School) and peers via LinkedIn for research opportunities.
+
+Current Projects
+
+Developing a research paper on becoming a professional business student, integrating soft and hard skills, targeting conference and ISI journal publication by 2026.
+Building a personal website (amirhosseinfarshkar.site) to showcase data projects and content.
+Training in Power BI to create financial dashboards and enhance my research for graduate applications.
+
+I’m driven by discipline, curiosity, and a vision to contribute to business innovation through data and strategy. Let’s connect to collaborate on exciting projects!
 
 ## :zap: What can I do?
 👉 seo digital marketing
 
-👉 Python Programming ( Tensorflow , OpenCV , Pandas , Matpolip ...)
+👉 Python Programming 
 
 
 
 👉 Wordpress (Any website)
 
-👉 JS 
 
-👉 HTML & CSS
 
 
 
