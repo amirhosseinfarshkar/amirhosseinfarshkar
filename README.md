@@ -13,36 +13,52 @@ You Can See What I am Currently Up to on my official Website : [amirhosseinfarsh
 
 ## 🌳 About
 
-About Me
-I’m Amirhossein Farshkar Esmaeili, a 19-year-old Business Administration student starting my Bachelor’s at the University of Trieste, Italy, in September 2025. My goal is to become a professional business leader, pursuing a fully-funded Master’s in finance or business and excelling in the CFA Level 1 exam by 2026. I’m passionate about data-driven decision-making and personal growth.
-Hard Skills
+I’m Amirhossein Farshkar Esmaeili, a 19-year-old aspiring Data Analyst and Business Administration student, starting my Bachelor’s at the University of Trieste, Italy, in September 2025. My focus is on transforming raw data into actionable insights to support data-driven business decisions. I have been actively learning SQL since early 2025 through hands-on projects, which I showcase on my portfolio and GitHub profile. My goal is to combine analytical skills with business acumen, aiming for a fully-funded Master’s in finance or business and excelling in the CFA Level 1 exam by 2026.
 
-Data Analysis: Proficient in Python (pandas, numpy) for financial data analysis and Power BI for building interactive dashboards. Actively mastering Excel (Data Validation, Pivot Tables).
+Hard Skills
+Data Analysis: Proficient in SQL for querying and analyzing datasets, Python (pandas, numpy) for data manipulation, and Power BI for building interactive dashboards. Actively mastering Excel (Data Validation, Pivot Tables) for business reporting.
+
+Portfolio Development: Completed SQL exercises and real-world projects, available on my GitHub and personal website.
+
 Business & Finance: Preparing for CFA Level 1, with daily study of financial markets and business analytics.
+
 Languages: Advanced English (IELTS 7.0), fluent Turkish (C2), and Italian (A2, Espresso curriculum).
 
 Soft Skills
+Analytical Thinking & Problem-Solving: Skilled at finding trends, patterns, and business opportunities through data.
 
-Time Management: Implement the 6% Method for 6 hours of daily focused learning, ensuring disciplined progress.
-Communication & Content Creation: Run a YouTube channel and Instagram page on IELTS, productivity, and student lifestyle, aiming for 1,000 followers in a month.
-Networking: Actively connect with professors (e.g., Rotman School) and peers via LinkedIn for research opportunities.
+Time Management: Apply the 6% Method for 6 hours of daily focused learning, ensuring disciplined progress.
+
+Communication & Content Creation: Manage a YouTube channel and Instagram page on IELTS, productivity, and student lifestyle.
+
+Networking: Build connections with professors (e.g., Rotman School) and peers via LinkedIn for research and project opportunities.
 
 Current Projects
+SQL & Data Analytics Portfolio: Publishing SQL projects covering sales analysis, HR analytics, and financial datasets.
 
-Developing a research paper on becoming a professional business student, integrating soft and hard skills, targeting conference and ISI journal publication by 2026.
-Building a personal website (amirhosseinfarshkar.site) to showcase data projects and content.
-Training in Power BI to create financial dashboards and enhance my research for graduate applications.
+Financial Dashboards: Creating Power BI dashboards to visualize and interpret key business metrics.
 
-I’m driven by discipline, curiosity, and a vision to contribute to business innovation through data and strategy. Let’s connect to collaborate on exciting projects!
+Research Paper: Writing on professional development for business students, integrating soft and hard skills, aiming for conference and ISI journal publication by 2026.
+
+Personal Website: Developing amirhosseinfarshkar.site to showcase data projects, dashboards, and research.
+
+I’m driven by discipline, curiosity, and a vision to contribute to business innovation through data analytics and strategy. Let’s connect to collaborate on exciting projects!
+
+
 
 ## :zap: What can I do?
-👉 seo digital marketing
 
-👉 Python Programming 
+👉 SQL – Writing queries for data extraction, cleaning, and analysis.
+👉 Python for Data Analysis – Using pandas, numpy, and matplotlib for manipulating and visualizing datasets.
+👉 Power BI & Data Visualization – Building interactive dashboards to present insights clearly.
+👉 Excel (Advanced) – Data Validation, Pivot Tables, and business reporting.
+👉 Data Storytelling – Turning raw data into actionable business recommendations.
+👉 wordpress - content creation
 
 
 
-👉 Wordpress (Any website)
+
+
 
 
 
